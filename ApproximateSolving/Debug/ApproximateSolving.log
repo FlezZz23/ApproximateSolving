@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\C++\ApproximateSolving\ApproximateSolving\Source.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\ApproximateSolving\ApproximateSolving\Source.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\ApproximateSolving\ApproximateSolving\Source.cpp(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\ApproximateSolving\ApproximateSolving\Source.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\C++\ApproximateSolving\ApproximateSolving\Source.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ApproximateSolving.vcxproj -> C:\C++\ApproximateSolving\Debug\ApproximateSolving.exe
